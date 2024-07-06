@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a85df1a3-9067-49dc-866b-58aa60176c2e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Aggrestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thiskey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hirarchical.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staticmethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lowertype.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Typecasting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/add_Two_number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hs_err_pid12184.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hs_err_pid7532.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/if_else.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/odd_even.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaFullStack/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaFullStack/hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaFullStack/hello.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaFullStack/hs_err_pid12184.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaFullStack/hs_err_pid7532.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaFullStack/replay_pid12184.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/replay_pid12184.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unaryOperator.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2ilcVgHtRRHXqohIFMvz4femspC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Array.executor": "Run",
+    "Application.B1.executor": "Run",
+    "Application.Bike.executor": "Run",
+    "Application.Dog4.executor": "Run",
+    "Application.Dog5.executor": "Run",
+    "Application.Honda2.executor": "Run",
+    "Application.Honda4.executor": "Run",
+    "Application.InterfaceA8.executor": "Run",
+    "Application.TestOverloading.executor": "Run",
+    "Application.TestPolymorphism.executor": "Run",
+    "Application.TestSuper1.executor": "Run",
+    "Application.Value.executor": "Run",
+    "Application.Wrapperclass.executor": "Run",
+    "Application.hello.executor": "Run",
+    "Application.instanceof1.executor": "Run",
+    "Application.methodOverloading.executor": "Run",
+    "Application.methodOverloding.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a85df1a3-9067-49dc-866b-58aa60176c2e" name="Changes" comment="" />
+      <created>1720068632737</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720068632737</updated>
+    </task>
+    <servers />
+  </component>
+</project>
