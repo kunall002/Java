@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a85df1a3-9067-49dc-866b-58aa60176c2e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaFullStack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaFullStack/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,37 +24,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Array.executor": "Run",
-    "Application.B1.executor": "Run",
-    "Application.Bike.executor": "Run",
-    "Application.Dog4.executor": "Run",
-    "Application.Dog5.executor": "Run",
-    "Application.ExceptionHand.executor": "Run",
-    "Application.Honda2.executor": "Run",
-    "Application.Honda4.executor": "Run",
-    "Application.InterfaceA8.executor": "Run",
-    "Application.Multid.executor": "Run",
-    "Application.StringBufferExample.executor": "Run",
-    "Application.StringExample.executor": "Run",
-    "Application.Stringbuffer.executor": "Run",
-    "Application.TestOverloading.executor": "Run",
-    "Application.TestPolymorphism.executor": "Run",
-    "Application.TestSuper1.executor": "Run",
-    "Application.Value.executor": "Run",
-    "Application.Wrapperclass.executor": "Run",
-    "Application.hello.executor": "Run",
-    "Application.instanceof1.executor": "Run",
-    "Application.methodOverloading.executor": "Run",
-    "Application.methodOverloding.executor": "Run",
-    "Application.multid.executor": "Run",
-    "Application.twoDarry.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.B1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bike.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Dog4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Dog5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExceptionHand.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Honda2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Honda4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InterfaceA8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Multid.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringBufferExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Stringbuffer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestOverloading.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestPolymorphism.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestSuper1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Value.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Wrapperclass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.hello.executor&quot;: &quot;Run&quot;,
+    &quot;Application.instanceof1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.methodOverloading.executor&quot;: &quot;Run&quot;,
+    &quot;Application.methodOverloding.executor&quot;: &quot;Run&quot;,
+    &quot;Application.multid.executor&quot;: &quot;Run&quot;,
+    &quot;Application.twoDarry.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
